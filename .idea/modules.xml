@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-mq/java-mq.iml" filepath="$PROJECT_DIR$/java-mq/java-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-mq-work/java-mq-work.iml" filepath="$PROJECT_DIR$/java-mq-work/java-mq-work.iml" />
+    </modules>
+  </component>
+</project>
